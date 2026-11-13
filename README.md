@@ -18,13 +18,20 @@
 
 ## 🧭 About me
 
-I'm a developer at **The Very Group**, working across the stack on a retail pricing and product data platform. I like building things that look good on the front and run quietly and reliably at the back.
+> 💡 *If it has a screen, a server, or an engine, I probably want to know how it works, and then tweak it.*
+
+I'm a developer who loves the whole journey of a product: the **pixel-perfect UI** you click, the **serverless magic** that answers, and everything in between. When the laptop closes, I swap code for **OBD scanners and infotainment mods**, and keep a **homelab** humming in the background.
+
+**What drives me**
+- 🎯 Interfaces that feel fast, clean and a little delightful
+- 🛡️ Backends that are boring in the best way: stable and quiet
+- 🔍 Curiosity: if something can be tuned, automated or self-hosted, I'm in
 
 | 🖥️ Front of house | ☁️ Behind the scenes | 🔧 After hours |
 | :--- | :--- | :--- |
-| Responsive UIs with **React**, **Angular** and **JavaScript** | **Java / Quarkus** AWS Lambda microservices | Car **infotainment** tweaks |
-| Clean, component-driven interfaces | Integration tests for **S3 / SQS / DynamoDB** flows | Engine tuning and diagnostics over **OBD** |
-| Styled with modern CSS frameworks | **Terraform** infrastructure and safe service decommissioning | A self-hosted **homelab** |
+| Responsive UIs with **React**, **Angular** and **JavaScript** | Serverless services on **AWS** | Car **infotainment** tweaks |
+| Clean, component-driven interfaces | Backends with **Java** and **Node.js** | Engine tuning and diagnostics over **OBD** |
+| Styled with modern CSS frameworks | Infrastructure as code with **Terraform** | A self-hosted **homelab** |
 
 ---
 
@@ -65,8 +72,6 @@ I'm a developer at **The Very Group**, working across the stack on a retail pric
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-<sub>**AWS services I work with:** Lambda · S3 · SQS · DynamoDB · API Gateway · CodeDeploy · CodeArtifact</sub>
 
 </div>
 
